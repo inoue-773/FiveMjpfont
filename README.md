@@ -1,6 +1,7 @@
 
 # Custom Japanese Font Library for FiveM
 
+[![Github All Releases](https://img.shields.io/github/downloads/inoue-773/NB_JpFontFiveM/total.svg)]()
 
 This is a Japanese font library designed for FiveM servers. The NotoSans font has been converted to the gfx format, ensuring compatibility with RAGE, the game engine powering GTA5. Included are four commonly used variants: thin, medium, semibold, and bold. While it's technically possible to replace the file and use other fonts, it's crucial to verify the commercial license before doing so to ensure compliance.
 
@@ -61,6 +62,8 @@ https://docs.fivem.net/natives/?_0x66E0276CC5F6B9DA
 #### FiveM update - May 5th/6th, 2017
 https://forum.cfx.re/t/fivem-update-may-5th-6th-2017/18200
 
+#### FiveM Custom Fonts That Supports Arabic/Hebrew Characters
+https://forum.cfx.re/t/fivem-custom-fonts-that-supports-arabic-hebrew-characters/3754100
 
 
 ## License
