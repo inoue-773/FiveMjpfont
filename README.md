@@ -20,7 +20,7 @@ FiveMサーバー向け日本語フォントです。ttf形式のフォントを
 
 To use this font library, simply place the resource folder into the standalone directory. This will automatically register the font files. Before utilizing these custom fonts within another resource, ensure that you start this resource first by editing the server.cfg file accordingly. Additionally, you'll need to add `<FONT FACE='FONT_NAME_HERE'>` before the string you want to display with the custom font. An example code will be provided below for reference.
 
-このフォントを使うには、standaloneフォルダにこのリソースを入れてください。ほかのスクリプトでも使えますが、カスタムフォントを使いたいリソースの前にこのリソースを開始させてください。また、表示させたい文字列の前に `<FONT FACE='FONT_NAME_HERE'>` を付け足す必要があります。具体的な例は下にしるしておきます。末尾の</font>はなくても動きます。
+このフォントを使うには、standaloneフォルダにこのリソースを入れてください。ほかのスクリプトでも使えますが、カスタムフォントを使いたいリソースの前にこのリソースを開始させてください。また、表示させたい文字列の前に `<FONT FACE='FONT_NAME_HERE'>` を付け足す必要があります。具体的な例は下にしるしておきます。末尾の`</font>`はなくても動きます。
 
 
 ```bash
