@@ -13,6 +13,8 @@ FiveMサーバー向け日本語フォントです。ttf形式のフォントを
 このスクリプトはFiveMのサーバー側からgfx形式のフォントをstreamすることでクライアント側に表示させます。メモリ使用量は各フォント20MBほどですのでパフォーマンスにはほぼ影響がないです。また、HTMLを使用したNUIには非対応です。NUIに日本語フォントを導入するにはcssで別途定義してください。
 
 このフォントをテストするスクリプトも同梱しています。`vector3(-981.28, -2637.14, 89.52)` に行くと「あいうえおtest」と出力するようにできていますので、フォントの確認用に使ってください。
+
+![image of test.lua](https://github.com/inoue-773/NB_JpFontFiveM/blob/image/aiueotest.png)
 ## Usage
 
 To use this font library, simply place the resource folder into the standalone directory. This will automatically register the font files. Before utilizing these custom fonts within another resource, ensure that you start this resource first by editing the server.cfg file accordingly. Additionally, you'll need to add `<FONT FACE='FONT_NAME_HERE'>` before the string you want to display with the custom font. An example code will be provided below for reference.
